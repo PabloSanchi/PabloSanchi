@@ -1,21 +1,8 @@
-<div id="header" align="center">
-  <img 
-    src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47f84veuqtqxjv67o2dlcq5ib54ea0uvrk9f3krv2e&rid=giphy.gif&ct=g" 
-    width="100"
-  />
+<h1>GitHub Stats! 📊</h1>
+<Br>
   
-  <div id="badges">
-    <a href='https://www.linkedin.com/in/pablosanchidrian/'>
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-</div>
-
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=PabloSanchi&style=flat-square&color=blue" alt=""/>
-</div>
-
-
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+<Br>
 
 
 
