@@ -1,24 +1,26 @@
-Hi!!
-<!-- <h1>GitHub Stats</h1>
-<Br>
-  
-[![PabloSanchi's github stats](https://github-readme-stats.vercel.app/api?username=PabloSanchi&show_icons=true&theme=merko)](https://github.com/PabloSanchi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSanchi&layout=compact&theme=merko)](https://github.com/PabloSanchi/github-readme-stats)
-<Br>
 
 
 
-<!--
-**PabloSanchi/PabloSanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Pablo Sanchidrian</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- -->
+## 📈 Stats
+
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloSanchi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloSanchi&theme=tokyonight" />
+</p>
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablosanchidrian)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pablosanchidrian.com/)
+
+
+### OPEN SOURCE CONTRIBUTIONS
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=spring-ai)](https://github.com/PabloSanchi/spring-ai)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=attu)](https://github.com/PabloSanchi/attu)
+
+
