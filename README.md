@@ -3,6 +3,9 @@
 
 <h1 align="center">Pablo Sanchidrian</h1>
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablosanchidrian)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pablosanchidrian.com/)
+
 
 ## 📈 Stats
 
@@ -11,10 +14,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloSanchi&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloSanchi&theme=tokyonight" />
 </p>
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pablosanchidrian)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pablosanchidrian.com/)
 
 
 ### OPEN SOURCE CONTRIBUTIONS
