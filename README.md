@@ -6,6 +6,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablosanchidrian)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pablosanchidrian.com/)
 
+<h2>NOTE: This is my personal GitHub account, This account does not show all of my contributions, as I am not able to connect GitHub Enterprise with this account</h2>
 
 ## 📈 Stats
 
