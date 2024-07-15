@@ -20,7 +20,7 @@
 ### CONTRIBUTING TO
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=spring-ai)](https://github.com/PabloSanchi/spring-ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=spring-ai)](https://github.com/PabloSanchi/langchain4j) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=langchain4j)](https://github.com/PabloSanchi/langchain4j) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=attu)](https://github.com/PabloSanchi/attu)
 
 
