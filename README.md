@@ -17,7 +17,7 @@
 </p>
 
 ### Projects I've created:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=jchunk)](https://github.com/PabloSanchi/jchunk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=jchunk)](https://github.com/PabloSanchi/jchunk.git)
 
 ### Projects I've contributed to:
 
