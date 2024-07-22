@@ -16,8 +16,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloSanchi&theme=tokyonight" />
 </p>
 
+### Projects I've created:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=jchunk)](https://github.com/PabloSanchi/jchunk)
 
-### CONTRIBUTING TO
+### Projects I've contributed to:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=spring-ai)](https://github.com/PabloSanchi/spring-ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=langchain4j)](https://github.com/PabloSanchi/langchain4j) 
