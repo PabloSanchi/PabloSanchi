@@ -7,7 +7,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pablosanchidrian.com/)
 ![](https://komarev.com/ghpvc/?username=PabloSanchi&color=brightgreen&style=for-the-badge)
 
-<h2>NOTE: This is my personal GitHub account. This account does not show all of my contributions; I use GitHub Enterprise and I am not allowed to connect it to my account</h2>
+<h2>NOTE: This is my personal GitHub account. This account does not show all of my contributions;</h2>
 
 ## 📈 Stats
 
