@@ -20,6 +20,7 @@
 ### Projects I've created:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=jchunk)](https://github.com/PabloSanchi/jchunk.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=gotry)](https://github.com/PabloSanchi/gotry.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloSanchi&repo=coding-and-low-level-desing-problems-in-go)](https://github.com/PabloSanchi/coding-and-low-level-desing-problems-in-go.git)
 
 ### Projects I've contributed to:
 
